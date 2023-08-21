@@ -5,6 +5,8 @@ import java.util.*;
 public class Lesson5Main {
 
     public static void main(String[] args) {
+        // HashSet
+        // set.add(key)
         // HashMap
         // [null, null, null, null, ... null] = 16
         // hashMap.put(key, value)
